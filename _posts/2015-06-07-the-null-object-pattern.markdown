@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Null Object pattern
-summary: Primer in Ruby
+summary: A technique for dealing with certain nil errors
 date: 2015-06-07
 published: true
 categories: ruby
