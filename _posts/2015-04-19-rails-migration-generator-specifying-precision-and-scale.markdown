@@ -4,7 +4,7 @@ title: Rails migration generator - how to specify decimal precision and scale
 summary:
 date: 2015-04-19
 published: true
-categories: ruby
+categories: rails
 ---
 
 This is a simple thing to forget and this is why it deserves its own post!
