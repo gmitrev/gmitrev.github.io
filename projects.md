@@ -42,7 +42,7 @@ as an automatic contribution calculator.
 <span style='font-size: 0.8em'>1. the lowest or most unsuccessful point in a situation.</span>
 
 Nadir is a blazing-fast exception tracker for Ruby applications that will be there for you when
-your own code betrays you you.
+your own code betrays you.
 
 <div style='clear: both'></div>
 <hr />
