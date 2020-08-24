@@ -4,26 +4,72 @@ title: Projects
 permalink: /projects/
 ---
 
-Most of my projects are hosted on my
-<a href="https://github.com/gmitrev" target="_blank">github account</a>.
- Here are some of the more interesting ones:
+I love creating new apps that solve my own problems. This is a list with everything I'm currently
+working on.
 
-#### Applications
+<hr/>
+<h5>
+  <img src="/images/ruby.png" alt="ruby" style="width:14px"/>
+  Stonksfolio
+  |
+  <a target="_blank" href="https://stonksfolio.com"> stonksfolio.com</a>
+  <a href="/images/stonks.png">
+    <img src="/images/stonks.png" alt="STONKS" style="width:350px; float: right; margin-left: 10px"/>
+  </a>
+</h5>
+
+Stonksfolio is a stock/ETF portfolio visualizer that provides insights into the performance of your
+portfolios.
+
+It also has an increasing number of tools that help passive investors with their investments, such
+as an automatic contribution calculator.
+
+<div style='clear: both'></div>
+<hr/>
+
+<h5>
+  <img src="/images/ruby.png" alt="ruby" style="width:14px"/>
+  Nadir
+  |
+  <a target="_blank" href="https://nadir.dev"> nadir.dev</a>
+  <a href="/images/nadir.png">
+    <img src="/images/nadir.png" alt="nadir" style="width:350px; float: right; margin-left: 10px"/>
+  </a>
+</h5>
+
+<span style='color: #999'>/ˈneɪdɪə,ˈnadɪə/</span>
+
+<span style='font-size: 0.8em'>1. the lowest or most unsuccessful point in a situation.</span>
+
+Nadir is a blazing-fast exception tracker for Ruby applications that will be there for you when
+your own code betrays you you.
+
+<div style='clear: both'></div>
+<hr />
 
 <h5>
   <img src="/images/ruby.png" alt="ruby" style="width:14px"/>
   Offlife
   |
   <a target="_blank" href="https://offlife.net"> offlife.net</a>
+  <a href="/images/offlife.png">
+    <img src="/images/offlife.png" alt="offlife" style="width:350px; float: right; margin-left: 10px"/>
+  </a>
 </h5>
-A collection of simple tools for everyday use - budget log, weight log,
-taggable notes and a journal.
+Offlife is a bundle of several small web applications:
+
+* Budget management system
+* Weight loss calulator and tracker
+* Progress pic visualizer
+
+<div style='clear: both'></div>
+<hr />
 
 <h5>
   <img src="/images/ruby.png" alt="GOSHO" style="width:14px;"/>
-  Nepalm
+  Nepalm (&#9760;)
   |
-  <a target="_blank" href="http://nepalm.com"> nepalm.com</a>
+  <a target="_blank" href="https://limitless-beach-9957.herokuapp.com"> nepalm.com</a>
   |
   <a class="fa fa-github" target="_blank" href="https://github.com/gmitrev/nepalm"> Source</a>
 </h5>
@@ -32,11 +78,13 @@ A simple and effective project management tool for small teams.
 
 <h5>
   <img src="/images/ruby.png" alt="GOSHO" style="width:14px;"/>
-  Pomodiary
+  Pomodiary (&#9760;)
   |
   <a target="_blank" href="http://pomodiary.herokuapp.com"> pomodiary.com</a>
 </h5>
 A digital companion for the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) power user.
+
+<hr />
 
 #### Libraries
 
@@ -96,3 +144,9 @@ Transforms numbers into Bulgarian words or Bulgarian money (BGN).
 </h5>
 
 A collection of useful extensions for the Ruby language.
+
+<hr />
+
+
+For full list of all projects I've been working on, visit my
+<a href="https://github.com/gmitrev" target="_blank">github account</a>.
