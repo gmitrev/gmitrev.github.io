@@ -4,7 +4,7 @@ email:       gvmitrev@gmail.com
 author:      Georgi Mitrev
 description: "Personal blog of Georgi Mitrev"
 baseurl:     ""
-url:         "http://mitrev.net"
+url:         "https://mitrev.net"
 date_format: "%b %-d, %Y"
 header_pages:
  - projects.md
