@@ -15,7 +15,7 @@ I am a serial side-project creator. Check out what I'm currently working on in t
 
 My favourite programming language is Ruby, which I use to build beautiful(?) applications that
 bring joy(?) to billions and billions of users every day /s. Although I prefer the backend, I am
-never affraid to get my hands dirty with some filthy js/css mess. My infra skills are also not too
+never afraid to get my hands dirty with some filthy js/css mess. My infra skills are also not too
 bad.
 
 I
