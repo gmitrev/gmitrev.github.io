@@ -34,7 +34,7 @@ You will find that the `app/assets/javascripts` folder no longer exists. Create 
 following command in your shell:
 
 ```sh
-mkidr -p app/assets/javascripts
+mkdir -p app/assets/javascripts
 ```
 
 Then, create `app/assets/javascripts/application.js` with the following contents (taken from a
