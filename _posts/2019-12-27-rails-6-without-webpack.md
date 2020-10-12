@@ -41,8 +41,7 @@ Then, create `app/assets/javascripts/application.js` with the following contents
 Rails 5 app):
 
 ```rb
-//= require jquery
-//= require jquery_ujs
+//= require rails-ujs
 //= require turbolinks
 //= require_tree .
 ```
