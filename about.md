@@ -7,8 +7,8 @@ tags: about
 
 <img src="/images/me.jpg" alt="GOSHO" style="width:250px;"/>
 
-My name is Georgi, I develop software for fun and profit and I live in Sofia, Bulgaria. I currently
-work at [Receipt Bank](https://www.receipt-bank.com).
+My name is Georgi. I develop software for fun and profit and I live in Sofia, Bulgaria. I am
+currently enjoying a break from working but am interested in great opportunities.
 
 I am a serial side-project creator. Check out what I'm currently working on in the
 [projects](/projects) page.
